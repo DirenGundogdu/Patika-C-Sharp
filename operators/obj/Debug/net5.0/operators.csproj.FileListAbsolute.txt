@@ -1,0 +1,16 @@
+E:\Software\Patika-C-Sharp\operators\bin\Debug\net5.0\operators.exe
+E:\Software\Patika-C-Sharp\operators\bin\Debug\net5.0\operators.deps.json
+E:\Software\Patika-C-Sharp\operators\bin\Debug\net5.0\operators.runtimeconfig.json
+E:\Software\Patika-C-Sharp\operators\bin\Debug\net5.0\operators.runtimeconfig.dev.json
+E:\Software\Patika-C-Sharp\operators\bin\Debug\net5.0\operators.dll
+E:\Software\Patika-C-Sharp\operators\bin\Debug\net5.0\ref\operators.dll
+E:\Software\Patika-C-Sharp\operators\bin\Debug\net5.0\operators.pdb
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.csproj.AssemblyReference.cache
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.AssemblyInfoInputs.cache
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.AssemblyInfo.cs
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.csproj.CoreCompileInputs.cache
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.dll
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\ref\operators.dll
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.pdb
+E:\Software\Patika-C-Sharp\operators\obj\Debug\net5.0\operators.genruntimeconfig.cache
