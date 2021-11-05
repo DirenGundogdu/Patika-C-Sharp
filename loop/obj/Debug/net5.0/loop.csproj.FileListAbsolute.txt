@@ -1,0 +1,16 @@
+E:\Software\Patika-C-Sharp\loop\bin\Debug\net5.0\loop.exe
+E:\Software\Patika-C-Sharp\loop\bin\Debug\net5.0\loop.deps.json
+E:\Software\Patika-C-Sharp\loop\bin\Debug\net5.0\loop.runtimeconfig.json
+E:\Software\Patika-C-Sharp\loop\bin\Debug\net5.0\loop.runtimeconfig.dev.json
+E:\Software\Patika-C-Sharp\loop\bin\Debug\net5.0\loop.dll
+E:\Software\Patika-C-Sharp\loop\bin\Debug\net5.0\ref\loop.dll
+E:\Software\Patika-C-Sharp\loop\bin\Debug\net5.0\loop.pdb
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.csproj.AssemblyReference.cache
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.AssemblyInfoInputs.cache
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.AssemblyInfo.cs
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.csproj.CoreCompileInputs.cache
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.dll
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\ref\loop.dll
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.pdb
+E:\Software\Patika-C-Sharp\loop\obj\Debug\net5.0\loop.genruntimeconfig.cache

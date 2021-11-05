@@ -1,0 +1,16 @@
+E:\Software\Patika-C-Sharp\arrays\bin\Debug\net5.0\arrays.exe
+E:\Software\Patika-C-Sharp\arrays\bin\Debug\net5.0\arrays.deps.json
+E:\Software\Patika-C-Sharp\arrays\bin\Debug\net5.0\arrays.runtimeconfig.json
+E:\Software\Patika-C-Sharp\arrays\bin\Debug\net5.0\arrays.runtimeconfig.dev.json
+E:\Software\Patika-C-Sharp\arrays\bin\Debug\net5.0\arrays.dll
+E:\Software\Patika-C-Sharp\arrays\bin\Debug\net5.0\ref\arrays.dll
+E:\Software\Patika-C-Sharp\arrays\bin\Debug\net5.0\arrays.pdb
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.csproj.AssemblyReference.cache
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.AssemblyInfoInputs.cache
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.AssemblyInfo.cs
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.csproj.CoreCompileInputs.cache
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.dll
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\ref\arrays.dll
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.pdb
+E:\Software\Patika-C-Sharp\arrays\obj\Debug\net5.0\arrays.genruntimeconfig.cache

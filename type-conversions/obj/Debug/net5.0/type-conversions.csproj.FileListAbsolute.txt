@@ -1,0 +1,16 @@
+E:\Software\Patika-C-Sharp\type-conversions\bin\Debug\net5.0\type-conversions.exe
+E:\Software\Patika-C-Sharp\type-conversions\bin\Debug\net5.0\type-conversions.deps.json
+E:\Software\Patika-C-Sharp\type-conversions\bin\Debug\net5.0\type-conversions.runtimeconfig.json
+E:\Software\Patika-C-Sharp\type-conversions\bin\Debug\net5.0\type-conversions.runtimeconfig.dev.json
+E:\Software\Patika-C-Sharp\type-conversions\bin\Debug\net5.0\type-conversions.dll
+E:\Software\Patika-C-Sharp\type-conversions\bin\Debug\net5.0\ref\type-conversions.dll
+E:\Software\Patika-C-Sharp\type-conversions\bin\Debug\net5.0\type-conversions.pdb
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.csproj.AssemblyReference.cache
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.AssemblyInfoInputs.cache
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.AssemblyInfo.cs
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.csproj.CoreCompileInputs.cache
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.dll
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\ref\type-conversions.dll
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.pdb
+E:\Software\Patika-C-Sharp\type-conversions\obj\Debug\net5.0\type-conversions.genruntimeconfig.cache
